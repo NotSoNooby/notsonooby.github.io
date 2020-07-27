@@ -45,3 +45,6 @@ a {
     padding: 8px;
     background-color: #dddddd;
 }
+a:active {
+    background-color: #4CAF50;
+}
