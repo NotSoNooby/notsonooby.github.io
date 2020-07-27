@@ -1,4 +1,5 @@
 body {
-    background-color: purple;
     background-image: linear-gradent(blue, purple);
+    background-color: purple;
+    
 }
