@@ -25,6 +25,7 @@ ul {
 }
 li {
     float: left;
+    border-right: 1px solid #bbb;
 }
 li a {
     display: block;
@@ -35,6 +36,9 @@ li a {
 }
 li a:hover {
     background-color: #111;
+}
+li:last-child {
+    border-right: none;
 }
 a {
     display: block;
