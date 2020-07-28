@@ -6,7 +6,7 @@ body {
     background: radial-gradient(circle, rgba(0,64,255,1) 38%, rgba(0,57,230,1) 67%, rgba(0,51,204,1) 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: contain;
     height: 100%;
     margin: 0
 }
