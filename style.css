@@ -22,6 +22,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: rgb(13,89,220);
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
 li {
     float: left;
