@@ -41,6 +41,7 @@ li a {
     text-decoration: none;
   }
 li a:hover:not(.active) {
+    transition: color 1s;
     background-color: #111;
   }
 .active {
